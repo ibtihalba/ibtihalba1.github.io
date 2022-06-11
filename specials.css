@@ -1,0 +1,13 @@
+.navbar-brand{
+   font-weight: 700;
+   font-size: 26px;
+   font-family: 'robot';
+}
+
+.main3{
+   background: url(./assets/servce.PNG)no-repeat;
+   background-size: cover;
+   height: 100vh;
+   width: 100%;
+   background-position: 50% 50%;
+}
